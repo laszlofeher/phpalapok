@@ -112,7 +112,7 @@ Egy összefoglaló dolgozat elkészítése. Vizsga munka megbeszélése.
 
 # Vizsga munka követelményei
 - Írja le a követelményeit/elvárásait a programmal szemben.  
-- Készítsen egy adatmodelt, az adatmodell legalább 3 táblából álljon.
+- Készítsen egy adatmodellt, az adatmodell legalább 3 táblából álljon.
 - A programban legyen egy útvonalválasztó, amely kezeli a beérkező kéréseket. **.htaccess**-t használjon. 
   GET "/", továbbá, 
   GET 'admin/uj-adat" az elérések természetesen szabadon választhatóak. 
