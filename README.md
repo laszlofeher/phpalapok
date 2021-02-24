@@ -11,9 +11,9 @@ Az első alkalommal **[XAMPP](https://www.apachefriends.org/hu/index.html)** , *
 
 |                                          |Dia / ppt file neve            |
 |------------------------------------------|-------------------------------|
-|Alapfogalmak	                             |`Php1_bevezeto.ppt`            |
-|Xampp telepítése                          |`Xampp.ppt`					           |
-|Változók, vezérlési szerkezetek           |`Php1.ppt`                     |
+|Alapfogalmak	                           |`Php1_bevezeto.ppt`            |
+|Xampp telepítése                          |`Xampp.ppt`					   |
+|Változók, vezérlési szerkezetek           |`Php1.ppt`|
 
 #### Házi feladat: 
 >Egy 10*10 táblázat kiírása, php nyelven. 
@@ -82,12 +82,38 @@ OOP a Php nyelvben. Osztályok, öröklés, egységbe zárás és más OOP fogal
 Egy összefoglaló dolgozat elkészítése. Vizsga munka megbeszélése.
 
 # Összefoglaló feladatok
+#### Egy lehetséges vizsgasor 
+
+- Írd le mi a különbség a szerveroldali és a kliensoldali szkriptek közt!
+- Adott egy tömb:
+  ```
+  $allatok = ['Kutya','Cica','Egér','Papagáj','Pók']
+  ```
+   Készíts egy ciklust, amivel kiíratod mindet egy H1 elemben!
+ - Tekintsd az alábbi függvényt:
+	  ```
+	  function (int $x){
+			echo $x; 
+	}
+	  ```
+	Írd le, hogy mit jelent a zárójelben szereplő int $x!
+- Készíts egy 5 elemű asszociatív tömböt, amiben a kulcsok az abc betűi, az értékek pedig egy-egy, az adott betűvel kezdődő név.
+- Készíts egy függvényt, ami kiszámolja egy egész szám faktoriálisát!
+- Mi a különbség az = , == , === jelek között a PHP nyelvben.
+- Használd a vizsgához mellékelt PHPVizsgaSQL.sql fájlt, majd válaszolj a kérdésekre: 
+  A SELECT utasításokat is írd le!
+  -	Hány fejlesztő van?
+  - Hány magyar fejlesztő van?
+  - Hogy hívják a magyar fejlesztőket?
+  - Mely országokban laknak Alana nevű fejlesztők?
+-  Készíts egy classt, ami az előző felhasználóhoz hozzáad téged.  Legyen külön classban az SQL kapcsolat, tőle örökölje a kapcsolatot a class.
+> Ilyen és ehhez hasonló feladatokra kell felkészülni. 2,5 óra időtartam alatt. 15 darab hasonló kérdésre kell válaszolni. A válaszokat egy egybe csomagolt zip file-ban kell küldeni. A vizsga elején megadott email címre. A levél tartalmából egyértelműen derüljön ki a feladó kiléte. 
 
 
 # Vizsga munka követelményei
-- 1. 
-- 2.
-- 3.
-- 4.
-- 5.
-- 6.
+- Írja le a követelményeit/elvárásait a programmal szemben.  
+- Készítsen egy adatmodelt, az adatmodell legalább 3 táblából álljon.
+- A programban legyen egy útvonalválasztó, amely kezeli a beérkező kéréseket. **.htaccess**-t használjon. 
+  GET "/", továbbá, 
+  GET 'admin/uj-adat" az elérések természetesen szabadon választhatóak. 
+  Az új adatok beírásához, módosításához, törléséhez POST üzeneteket használjon.  
