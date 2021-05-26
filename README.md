@@ -11,9 +11,10 @@ Az első alkalommal **[XAMPP](https://www.apachefriends.org/hu/index.html)** , *
 
 |                                          |Dia / ppt file neve            |
 |------------------------------------------|-------------------------------|
-|Alapfogalmak	                           |`Php1_bevezeto.ppt`            |
-|Xampp telepítése                          |`Xampp.ppt`					   |
-|Változók, vezérlési szerkezetek           |`Php1.ppt`|
+|Alapfogalmak	                           |`Php1_bevezeto.pptx`           |
+|Xampp telepítése                          |`Xampp.pptx`		   |
+|Netbeans telepítése                       |`Netbeans.pptx`                |
+|Változók, vezérlési szerkezetek           |`Php1.pptx`                    |
 
 #### Házi feladat: 
 >Egy 10*10 táblázat kiírása, php nyelven. 
