@@ -117,4 +117,10 @@ Egy összefoglaló dolgozat elkészítése. Vizsga munka megbeszélése.
 - A programban legyen egy útvonalválasztó, amely kezeli a beérkező kéréseket. **.htaccess**-t használjon. 
   GET "/", továbbá, 
   GET 'admin/uj-adat" az elérések természetesen szabadon választhatóak. 
-  Az új adatok beírásához, módosításához, törléséhez POST üzeneteket használjon.  
+  Az új adatok beírásához, módosításához, törléséhez POST üzeneteket használjon. 
+  
+#### Felhasznált PowerPoint sablon 
+**[Sablon](https://www.slidescarnival.com/gaoler-free-presentation-template/9122)**
+#### Felhasznált Grafikák
+**[Leírás](https://uxplanet.org/isometric-free-isometric-illustrations-for-any-projects-27af857e6ad0)**
+**[Grafikák](https://isometric.online/)**
