@@ -112,15 +112,15 @@ Egy összefoglaló dolgozat elkészítése. Vizsga munka megbeszélése.
 
 
 # Vizsga munka követelményei
-- Írja le a követelményeit/elvárásait a programmal szemben.  
+- Írja le a követelményeit/elvárásait a programmal szemben. Követelményspecifikáció.  
 - Készítsen egy adatmodellt, az adatmodell legalább 3 táblából álljon.
 - A programban legyen egy útvonalválasztó, amely kezeli a beérkező kéréseket. **.htaccess**-t használjon. 
   GET "/", továbbá, 
   GET 'admin/uj-adat" az elérések természetesen szabadon választhatóak. 
   Az új adatok beírásához, módosításához, törléséhez POST üzeneteket használjon.
 - A projekt álljon egy legalább egy oldalból, amely adatbázisból szedi az adatait.
-- A projektben legyen egy bejelentkezés.
-- A projektben a bejelentkezés után képesek legyünk, valamilyen adatot módosítani, amely változást a főoldalon látni lehet. 
+- A projektben legyen egy bejelentkezés. Admin felület.
+- A projektben a bejelentkezés után képesek legyünk, valamilyen adatot módosítani, amely változást a főoldalon látni lehet. Admin felület.
   
 #### Felhasznált PowerPoint sablon 
 **[Sablon](https://www.slidescarnival.com/gaoler-free-presentation-template/9122)**
