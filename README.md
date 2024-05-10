@@ -6,16 +6,17 @@
 
 Az első alkalom tartalma:
  - **[XAMPP](https://www.apachefriends.org/hu/index.html)**  (XAMPP kapcsán keresztül a PHP verziók és felfutásának rövid ismertetése) -
- - **[Netbeans](https://netbeans.apache.org/download/index.html)** vagy **[Viusal Studio Code](https://code.visualstudio.com/)** és **[Devsense bővítmény](https://www.devsense.com/en)** telepítés. 
+ - **[Netbeans](https://netbeans.apache.org/download/index.html)** vagy **[Viusal Studio Code](https://code.visualstudio.com/)** és **[Devsense bővítmény](https://www.devsense.com/en)** telepítés.  
+	 - **[Visual Studio Code -hoz tartozó Devsense bővítményről itt lehet bővebben magyarul olvasni](https://prog.hu/hirek/6341/nagyon-komoly-ingyenes-php-tamogatas-jott-a-visual-studio-hoz)** 
  - Az alap fogalmak megismerése: **kliens-szerver** működés. **HTTP** protokoll részletezése. 
  - A **Változó** fogalmának ismertetése.  
  - **Konstans** fogalma és definiálása. 
  - Neumann elvek magyarázata a változó elhelyezése. A változóval kapcsolatban a típusok ismertetése, különbség szám és szöveg ábrázolás között. 
  - Operátorok ismertetése
 - **Vezérlési szerkezetek/Flow Control** bemutatása példákon keresztül. 
-		- Sor
-		- Feltétel / Elágazás
-		- Ismétlődő végrehajtás / Ciklus
+	- Sor
+	- Feltétel / Elágazás
+	- Ismétlődő végrehajtás / Ciklus
 
 ### Diasorok 
 ---
