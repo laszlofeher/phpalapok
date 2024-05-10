@@ -6,7 +6,7 @@
 
 Az első alkalom tartalma:
  - **[XAMPP](https://www.apachefriends.org/hu/index.html)**  (XAMPP kapcsán keresztül a PHP verziók és felfutásának rövid ismertetése) -
- - **[Netbeans](https://netbeans.apache.org/download/index.html)** vagy **[Viusal Studio Code](https://code.visualstudio.com/)** telepítés. 
+ - **[Netbeans](https://netbeans.apache.org/download/index.html)** vagy **[Viusal Studio Code](https://code.visualstudio.com/)** és **[Devsense bővítmény](https://www.devsense.com/en)** telepítés. 
  - Az alap fogalmak megismerése: **kliens-szerver** működés. **HTTP** protokoll részletezése. 
  - A **Változó** fogalmának ismertetése.  
  - **Konstans** fogalma és definiálása. 
