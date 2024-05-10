@@ -4,7 +4,12 @@
 
 ## 1. alkalom
 
-Az első alkalommal **[XAMPP](https://www.apachefriends.org/hu/index.html)** , **[Netbeans](https://netbeans.apache.org/download/index.html)** telepítés.  Az alap fogalmak megismerése: **kliens-szerver** működés. **HTTP** protokoll részletezése. A **Változó** fogalmának ismertetése.  **Vezérlési szerkezetek/Flow Control** bemutatása példákon keresztül. 
+Az első alkalom tartalma:
+ - **[XAMPP](https://www.apachefriends.org/hu/index.html)**  (XAMPP kapcsán keresztül a PHP verziók és felfutásának rövid ismertetése) -
+ - **[Netbeans](https://netbeans.apache.org/download/index.html)** vagy **[Viusal Studio Code](https://code.visualstudio.com/)** telepítés. 
+ - Az alap fogalmak megismerése: **kliens-szerver** működés. **HTTP** protokoll részletezése. 
+ A **Változó** fogalmának ismertetése.  **Konstans** fogalma és definiálása. Neumann elvek magyarázata a változó elhelyezése. A változóval kapcsolatban a típusok ismertetése, különbség szám és szöveg ábrázolás között. 
+**Vezérlési szerkezetek/Flow Control** bemutatása példákon keresztül. 
 
 ### Diasorok 
 ---
