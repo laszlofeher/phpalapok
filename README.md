@@ -4,7 +4,8 @@
 
 ## 1. alkalom
 
-Az első alkalom tartalma:
+### Az első alkalom tartalma:
+
  - **[XAMPP](https://www.apachefriends.org/hu/index.html)**  (XAMPP kapcsán keresztül a PHP verziók és felfutásának rövid ismertetése) -
  - **[Netbeans](https://netbeans.apache.org/download/index.html)** vagy **[Viusal Studio Code](https://code.visualstudio.com/)** és **[Devsense bővítmény](https://www.devsense.com/en)** telepítés.  
 	 - **[Visual Studio Code -hoz tartozó Devsense bővítményről itt lehet bővebben magyarul olvasni](https://prog.hu/hirek/6341/nagyon-komoly-ingyenes-php-tamogatas-jott-a-visual-studio-hoz)** 
@@ -32,7 +33,8 @@ Az első alkalom tartalma:
 >Egy 10*10 táblázat kiírása, php nyelven. 
 
 ## 2. alkalom
-### Alapvető programozási tételek
+### A második alkalom tartalma: 
+#### Alapvető programozási tételek
 - Összegzés
 - Eldöntés
 - Kiválasztás
