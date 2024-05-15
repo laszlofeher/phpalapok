@@ -32,7 +32,14 @@ Az első alkalom tartalma:
 >Egy 10*10 táblázat kiírása, php nyelven. 
 
 ## 2. alkalom
-Szöveg kezeléssel kapcsolatos feladatok.  Tömb adatszerkezet.
+### Alapvető programozási tételek
+- Összegzés
+- Eldöntés
+- Kiválasztás
+
+A fentiek bemutatása a PHP -ban, és a kész PHP függvényekkel összevetés mivel ezek az algoritmusok készen vannak a PHP nyelvben. 
+Tömbök fogalma és használata, tömbök bejárása, ezekhez kapcsolodó PHP függvények.  
+Szöveg kezeléssel kapcsolatos feladatok. 
 
 #### Házi feladat: 
 >Palindrom vizsgálat (indul a görög aludni szöveget lehet-e vissza felé olvasni.) 
