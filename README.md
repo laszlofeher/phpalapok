@@ -40,8 +40,31 @@
 - Kiválasztás
 
 A fentiek bemutatása a PHP -ban, és a kész PHP függvényekkel összevetés mivel ezek az algoritmusok készen vannak a PHP nyelvben. 
-Tömbök fogalma és használata, tömbök bejárása, ezekhez kapcsolodó PHP függvények.  
-Szöveg kezeléssel kapcsolatos feladatok. 
+Tömbök fogalma és használata, tömbök bejárása, ezekhez kapcsolodó PHP függvények. 
+- Tömb függvények
+	- array(); []	Tömb létrehozása
+	- count()	Tömb elemeinek darabszámát adja vissza.
+	- array_diff()	Tömb különbségét adja vissza.
+	- array_keys()	A tömb kulcsait adja vissza
+	- array_reverse()	Visszaadja a tömb elemeit fordított sorrendben.
+	- array_search()	Megkeres egy elemet a tömbben, sikeres esetben visszaadja az első találat kulcsát.
+	- array_slice()	Visszaadja a tömb szeletjét.
+	- array_sum()	Visszaadja az integer és float-ból álló tömb összegét. 
+Stringek / Karakterláncok kezelése.
+ - String függvények 
+	 - echo	kiír egy szöveget
+	 - print	kiír egy szöveget
+	 - explode()	feldarabolja a szöveget részekre, a megadott elválasztójel mentén.
+	 - ltrim(), rtrim(), trim()	Leszedi a szóközöket. ltrim balról, rtrim jobbról, trim mindkét végéről a szövegnek.
+	 - parse_str()	Értelmezi az URL query stringet és egy asszociatív tömböt készít belőle.
+	 - strlen()	A szöveg hosszát(karakter darabszámát) adja vissza.
+	 - strpos()	Egy szövegrész kezdő pozicíóját adja meg, ha megtalálható a szövegben.
+	 - str_replace()	Egy szövegrészt felülír a szövegben egy másik szövegrésszel.
+ - Multibyte string
+	 - mb_strlen	A többbájtos szöveg hosszát(karakter darabszámát) adja vissza.
+	 - mb_split	Többbájtos karakterlánc feldarabolása reguláris kifejezéssel
+	 - mb_strpos 	Visszaadja egy karakterlánc első előfordulásának pozicíóját a karakterláncban.
+	 - mb_substr	Visszaadja egy karakterlánc egy részét.
 
 #### Házi feladat: 
 >Palindrom vizsgálat (indul a görög aludni szöveget lehet-e vissza felé olvasni.) 
