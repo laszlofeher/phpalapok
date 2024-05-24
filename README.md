@@ -83,7 +83,7 @@ Stringek / Karakterláncok kezelése.
 - függvény paraméterei
 	- típussal, típus nélkül
 	- opcionális paraméter
-	- ... paraméter, maelyet tömbként értelmez a PHP a függvényen belül.
+	- ... paraméter, amelyet tömbként értelmez a PHP a függvényen belül.
 	- érték és cím szerinti paraméter átadás.
 	- változók láthatósága függvényen belül és kivül.
  
