@@ -73,10 +73,36 @@ Stringek / Karakterláncok kezelése.
 
 ## 3. alkalom
 
-**\$_POST**, **\$_GET** rendszertömbök ismertetése. HTML űrlap és a php kapcsolata. Egyszerű belépés oldal készítése (valódi bejelentkeztetés nélkül) . Regisztrációs űrlap php oldali ellenőrzése.  File feltöltés **\$_FILES** rendszertömb használata. 
+**\$_POST**, **\$_GET** rendszertömbök ismertetése. HTML űrlap és a php kapcsolata. 
+- Adatok megadása és elküldése. 
+- Regisztrációs űrlap php oldali ellenőrzése.  
+- Bemenő adatok ellenőrzése: **filter_var** függvény segítségével. (email cím ellenőrzése, html kód beküldése, Santize / tisztitó paraméterek segítségével "hatástalanítása". 
+**Saját Függvények készítése**
+- function kulcsszó
+- function_exist függvény használata
+- függvény paraméterei
+	- típussal, típus nélkül
+	- opcionális paraméter
+	- ... paraméter, maelyet tömbként értelmez a PHP a függvényen belül.
+	- érték és cím szerinti paraméter átadás.
+	- változók láthatósága függvényen belül és kivül.
+ 
+
+
+
+#### Feladatok
+> Előző feladatok : TAJ, Palindrom keresés űrlapon keresztül. 
+
 #### Házi feladat: 
 > Űrlapon keresztül küldjön be egy egyismeretlenes egyenletet (pl.: x+5= x-2) és írja ki a megoldás lépéseit. Az egyenlet helyességét nem kell ellenőrizni, illetve feltételezzük, hogy mindig ilyen jellegű egyenlet lesz beírva. 
 ## 4. alkalom
+
+File feltöltés **\$_FILES** rendszertömb használata. 
+- file fogalma
+- directory / folder fogalma
+- file feltöltés követelményei (form enctype="multiple/form-data" )
+- $_FILES két dimenziós tömb tartalmazza a file adatait és elérhetőségét.
+- copy, mkdir, file és könyvtárkezelő függvények a PHP -ban.
 
 File kezelés a PHP nyelv keretein belül. GD, IMAGICK könyvtárak használata a képek módosításához. Egy galéria elkészítése, amely egy könvytárban lévő összes képet felolvassa és megjeleníti. 
 #### Házi feladat: 
