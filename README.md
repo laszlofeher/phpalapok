@@ -87,9 +87,6 @@ Stringek / Karakterláncok kezelése.
 	- érték és cím szerinti paraméter átadás.
 	- változók láthatósága függvényen belül és kivül.
  
-
-
-
 #### Feladatok
 > Előző feladatok : TAJ, Palindrom keresés űrlapon keresztül. 
 
@@ -105,6 +102,12 @@ File feltöltés **\$_FILES** rendszertömb használata.
 - copy, mkdir, file és könyvtárkezelő függvények a PHP -ban.
 
 File kezelés a PHP nyelv keretein belül. GD, IMAGICK könyvtárak használata a képek módosításához. Egy galéria elkészítése, amely egy könvytárban lévő összes képet felolvassa és megjeleníti. 
+#### Feladatok: 
+> Adatok mentése űrlapon keresztül csv file-ba
+> Egyszerű csv file kezelés
+> ini file kezelés
+> json file kezelés
+
 #### Házi feladat: 
 > Az órán ekészített galériához feltöltö felület készítése
 
