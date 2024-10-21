@@ -232,4 +232,4 @@ Egy összefoglaló dolgozat elkészítése. Vizsga munka megbeszélése.
 **[Sablon](https://www.slidescarnival.com/gaoler-free-presentation-template/9122)**
 #### Felhasznált Grafikák
 **[Leírás](https://uxplanet.org/isometric-free-isometric-illustrations-for-any-projects-27af857e6ad0)**
-**[Grafikák](https://isometric.online/)**
+**[Grafikák](https://www.producthunt.com/products/isometric-3/)**
