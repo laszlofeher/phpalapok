@@ -120,7 +120,22 @@ File kezelés a PHP nyelv keretein belül. GD, IMAGICK könyvtárak használata 
 
 ## 5. alkalom
 
-Az adatbázis kezelés alapjai. Relációs adatmodell ismertetése. Normalizálás lépései. MySQL/MariaDB alapok. Adatbázis kapcsolat a PHP nyelven keresztül. Adatbázishoz kliensként csatlakozik a Php. 
+Az adatbázis kezelés alapjai. 
+- Relációs adatmodell ismertetése.
+	- Alapfogalmak : 
+		- Egyed
+		- Attributum
+		- Reláció 
+- Normalizálás lépései.
+	- 1. Normál forma
+	- 2. Normál forma
+	- 3. Normál forma 
+- MySQL/MariaDB alapok. 
+- Adatbázis kapcsolat a PHP nyelven keresztül. 
+
+Adatbázishoz kliensként csatlakozik a Php. 
+
+
 #### Házi feladat: 
 > Egy blog adatmodelljének elkészítése
 > 
