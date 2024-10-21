@@ -135,27 +135,34 @@ Az adatbázis kezelés alapjai.
 
 Adatbázishoz kliensként csatlakozik a Php. 
 
-
 #### Házi feladat: 
 > Egy blog adatmodelljének elkészítése
 > 
-## 6. alkalom
 
-**SQL** nyelv **DDL** (Data Definitions Language), **DML** (Data Manipulations Language). A SELECT utasítás részletezése. SQL feladatok megoldása példákon keresztül. SQL -ben használatos függvények. Aggregált (összegző) függvények. **WHERE , GROUP BY , ORDER BY,  JOIN** példák. 
+**SQL** nyelv 
+- **DDL** (Data Definitions Language)
+- **DML** (Data Manipulations Language). 
+- A SELECT utasítás részletezése. SQL feladatok megoldása példákon keresztül. SQL -ben használatos függvények. 
+- **WHERE , GROUP BY , ORDER BY,  JOIN** példák.
+- Aggregált (összegző) függvények **SUM**, **AVG**, **COUNT**. 
 
 #### Házi feladat: 
 
 > A blog adatmodelhez kapcsolodó SELECT lekérdezések megírása. Feltöltött példa adatokon keresztül. Összes cikk lekérdezése és időrendben állítása. Témakörönként csoportosítva. Évre és hónapra csoportosítva. 
-
-## 7. alkalom
-
+## 6. alkalom
 Blog elkészítése hagyományos módon, keretrendszer nélkül. Admin felület a cikk feltöltésekhez. Login kezelése **\$_SESSION** rendszertömb megismerése. 
 
-## 8. alkalom
+## 7. alkalom
 
 OOP a Php nyelvben. Osztályok, öröklés, egységbe zárás és más OOP fogalmak tisztázása. Példák elkészítése. 
 #### Házi feladat: 
 > Abstract osztály készítése, egy általános művelet absztrakt osztály, és az összeadás, kivonás osztály létrehozása a művelet osztályon keresztül. 
+
+
+## 8. alkalom
+
+
+
 
 ## 9. alkalom
 
@@ -163,7 +170,7 @@ OOP a Php nyelvben. Osztályok, öröklés, egységbe zárás és más OOP fogal
 
 ## 10. alkalom
 
-**Codeigniter** keretrendszerben a Blog elkészítése. A 7. alkalom során elkészített blog **Codeigniter framework**be átültetése. 
+
 
 ## 11. alkalom
 
@@ -171,7 +178,7 @@ OOP a Php nyelvben. Osztályok, öröklés, egységbe zárás és más OOP fogal
 
 ## 12. alkalom
 
-////
+**Codeigniter** keretrendszerben a Blog elkészítése. A 7. alkalom során elkészített blog **Codeigniter framework**be átültetése. 
 
 ## 13. alkalom
 
