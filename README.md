@@ -127,9 +127,9 @@ Az adatbázis kezelés alapjai.
 		- Attributum
 		- Reláció 
 - Normalizálás lépései.
-	- 1. Normál forma
-	- 2. Normál forma
-	- 3. Normál forma 
+	-  1. Normál forma
+	-  2. Normál forma
+	-  3. Normál forma 
 - MySQL/MariaDB alapok. 
 - Adatbázis kapcsolat a PHP nyelven keresztül. 
 
