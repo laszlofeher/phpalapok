@@ -171,7 +171,7 @@ OOP a Php nyelvben.
 - Öröklés
 - Egységbe zárás és más OOP fogalmak tisztázása. 
 - Abstract osztály
-- Interface
+- Interface használata a PHP nyelvben (Iterator)
 - Példák elkészítése. 
 
 #### Feladat: 
@@ -182,7 +182,8 @@ OOP a Php nyelvben.
 
 ## 8. alkalom
 
-Objektum orientált  
+OOP szemlélettel a Blog elkészítése
+MVC fogalmának tisztázása.
 
 
 
