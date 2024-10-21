@@ -1,3 +1,4 @@
+
 # Php tanfolyam 12 alkalom
 
 12 alkalom (12*6 óra) folyamán megismerkedünk a Php alap rejtelmeivel.  
@@ -70,6 +71,8 @@ Stringek / Karakterláncok kezelése.
 >Palindrom vizsgálat (indul a görög aludni szöveget lehet-e vissza felé olvasni.) 
 >Banki számlaszám ellenőrző kódjának vizsgálata. 
 >Taj szám ellenőrző kódjának vizsgálata. 
+>Elsőfokú egyenlet megoldása
+>Extra feladat: Számot szövegkét kiírni magyarul
 
 ## 3. alkalom
 
@@ -92,7 +95,7 @@ Stringek / Karakterláncok kezelése.
 
 #### Házi feladat: 
 > Űrlapon keresztül küldjön be egy egyismeretlenes egyenletet (pl.: x+5= x-2) és írja ki a megoldás lépéseit. Az egyenlet helyességét nem kell ellenőrizni, illetve feltételezzük, hogy mindig ilyen jellegű egyenlet lesz beírva. 
-## 4. alkalom
+
 
 File feltöltés **\$_FILES** rendszertömb használata. 
 - file fogalma
@@ -110,6 +113,10 @@ File kezelés a PHP nyelv keretein belül. GD, IMAGICK könyvtárak használata 
 
 #### Házi feladat: 
 > Az órán ekészített galériához feltöltö felület készítése
+
+## 4. alkalom
+
+
 
 ## 5. alkalom
 
