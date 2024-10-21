@@ -87,15 +87,15 @@ Stringek / Karakterláncok kezelése.
 	- típussal, típus nélkül
 	- opcionális paraméter
 	- ... paraméter, amelyet tömbként értelmez a PHP a függvényen belül.
-	- érték és cím szerinti paraméter átadás.
+	- érték és cím (&) szerinti paraméter átadás.
 	- változók láthatósága függvényen belül és kivül.
+	- callback függvények
  
 #### Feladatok
 > Előző feladatok : TAJ, Palindrom keresés űrlapon keresztül. 
 
 #### Házi feladat: 
 > Űrlapon keresztül küldjön be egy egyismeretlenes egyenletet (pl.: x+5= x-2) és írja ki a megoldás lépéseit. Az egyenlet helyességét nem kell ellenőrizni, illetve feltételezzük, hogy mindig ilyen jellegű egyenlet lesz beírva. 
-
 
 File feltöltés **\$_FILES** rendszertömb használata. 
 - file fogalma
@@ -147,10 +147,14 @@ Adatbázishoz kliensként csatlakozik a Php.
 - Aggregált (összegző) függvények **SUM**, **AVG**, **COUNT**. 
 
 #### Házi feladat: 
-
 > A blog adatmodelhez kapcsolodó SELECT lekérdezések megírása. Feltöltött példa adatokon keresztül. Összes cikk lekérdezése és időrendben állítása. Témakörönként csoportosítva. Évre és hónapra csoportosítva. 
+
 ## 6. alkalom
 Blog elkészítése hagyományos módon, keretrendszer nélkül. Admin felület a cikk feltöltésekhez. Login kezelése **\$_SESSION** rendszertömb megismerése. 
+Jelszó tárolás 
+	- hash fogalma
+	- hash függvény használata
+	- password_hash - password_verify függvény páros használata
 
 ## 7. alkalom
 
