@@ -67,12 +67,15 @@ Stringek / Karakterláncok kezelése.
 	 - mb_strpos 	Visszaadja egy karakterlánc első előfordulásának pozicíóját a karakterláncban.
 	 - mb_substr	Visszaadja egy karakterlánc egy részét.
 
-#### Házi feladat: 
+#### Feladatok: 
 >Palindrom vizsgálat (indul a görög aludni szöveget lehet-e vissza felé olvasni.) 
 >Banki számlaszám ellenőrző kódjának vizsgálata. 
 >Taj szám ellenőrző kódjának vizsgálata. 
 >Elsőfokú egyenlet megoldása
 >Extra feladat: Számot szövegkét kiírni magyarul
+
+#### Házi feladat
+> BMI index számító alkalmazás készítése
 
 ## 3. alkalom
 
@@ -156,15 +159,30 @@ Jelszó tárolás
 	- hash függvény használata
 	- password_hash - password_verify függvény páros használata
 
+#### Feladatok
+> CRUD rendszer készítése
+> Datatable összekötése PHP -val
+> 
+
 ## 7. alkalom
 
-OOP a Php nyelvben. Osztályok, öröklés, egységbe zárás és más OOP fogalmak tisztázása. Példák elkészítése. 
-#### Házi feladat: 
+OOP a Php nyelvben. 
+- Osztályok
+- Öröklés
+- Egységbe zárás és más OOP fogalmak tisztázása. 
+- Abstract osztály
+- Interface
+- Példák elkészítése. 
+
+#### Feladat: 
 > Abstract osztály készítése, egy általános művelet absztrakt osztály, és az összeadás, kivonás osztály létrehozása a művelet osztályon keresztül. 
 
+#### Házi feladat
+> Az absztrakt osztály két esetre felkészítése
 
 ## 8. alkalom
 
+Objektum orientált  
 
 
 
