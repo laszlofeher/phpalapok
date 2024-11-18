@@ -68,16 +68,23 @@ Stringek / Karakterláncok kezelése.
 	 - mb_substr	Visszaadja egy karakterlánc egy részét.
 
 #### Feladatok: 
+
+
+#### Házi feladat
+> BMI index számító alkalmazás készítése
+
+## 3. alkalom
+
+
+#### Feladatok: 
 >Palindrom vizsgálat (indul a görög aludni szöveget lehet-e vissza felé olvasni.) 
 >Banki számlaszám ellenőrző kódjának vizsgálata. 
 >Taj szám ellenőrző kódjának vizsgálata. 
 >Elsőfokú egyenlet megoldása
 >Extra feladat: Számot szövegkét kiírni magyarul
 
-#### Házi feladat
-> BMI index számító alkalmazás készítése
 
-## 3. alkalom
+## 4. alkalom
 
 **\$_POST**, **\$_GET** rendszertömbök ismertetése. HTML űrlap és a php kapcsolata. 
 - Adatok megadása és elküldése. 
@@ -117,11 +124,11 @@ File kezelés a PHP nyelv keretein belül. GD, IMAGICK könyvtárak használata 
 #### Házi feladat: 
 > Az órán ekészített galériához feltöltö felület készítése
 
-## 4. alkalom
-
-
-
 ## 5. alkalom
+
+
+
+## 6. alkalom
 
 Az adatbázis kezelés alapjai. 
 - Relációs adatmodell ismertetése.
@@ -152,7 +159,7 @@ Adatbázishoz kliensként csatlakozik a Php.
 #### Házi feladat: 
 > A blog adatmodelhez kapcsolodó SELECT lekérdezések megírása. Feltöltött példa adatokon keresztül. Összes cikk lekérdezése és időrendben állítása. Témakörönként csoportosítva. Évre és hónapra csoportosítva. 
 
-## 6. alkalom
+## 7. alkalom
 Blog elkészítése hagyományos módon, keretrendszer nélkül. Admin felület a cikk feltöltésekhez. Login kezelése **\$_SESSION** rendszertömb megismerése. 
 Jelszó tárolás 
 	- hash fogalma
@@ -164,7 +171,7 @@ Jelszó tárolás
 > Datatable összekötése PHP -val
 > 
 
-## 7. alkalom
+## 8. alkalom
 
 OOP a Php nyelvben. 
 - Osztályok
@@ -180,24 +187,20 @@ OOP a Php nyelvben.
 #### Házi feladat
 > Az absztrakt osztály két esetre felkészítése
 
-## 8. alkalom
+## 9. alkalom
 
 OOP szemlélettel a Blog elkészítése
 MVC fogalmának tisztázása.
 
 
 
-## 9. alkalom
-
-////
-
 ## 10. alkalom
 
-
+////
 
 ## 11. alkalom
 
-////
+
 
 ## 12. alkalom
 
