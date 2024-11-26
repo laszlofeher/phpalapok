@@ -192,11 +192,11 @@ OOP a Php nyelvben.
 OOP szemlélettel a Blog elkészítése
 MVC fogalmának tisztázása.
 
-
-
 ## 10. alkalom
 
-////
+Excel, Word kezelése a PHP nyelvben.
+Zip file kezelése
+Html, Xml kezelés
 
 ## 11. alkalom
 
