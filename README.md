@@ -239,7 +239,7 @@ Egy összefoglaló dolgozat elkészítése. Vizsga munka megbeszélése.
 > Ilyen és ehhez hasonló feladatokra kell felkészülni. 2,5 óra időtartam alatt. 15 darab hasonló kérdésre kell válaszolni. A válaszokat egy egybe csomagolt zip file-ban kell küldeni. A vizsga elején megadott email címre. A levél tartalmából egyértelműen derüljön ki a feladó kiléte. 
 
 
-# Vizsga munka követelményei
+# Vizsga projekt követelményei
 - Írja le a követelményeit/elvárásait a programmal szemben. Követelményspecifikáció.  
 - Készítsen egy adatmodellt, az adatmodell legalább 3 táblából álljon.
 - A programban legyen egy útvonalválasztó, amely kezeli a beérkező kéréseket. **.htaccess**-t használjon. 
